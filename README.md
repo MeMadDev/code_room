@@ -17,7 +17,7 @@ To get started with Chat Room, follow these steps:
 ```pip install django```
 
 2. Install Channels for real-time updates:
-```python -m pip install -U channels["daphne"]```
+```python -m pip install daphne```
 
 3. Install Docker (if not already installed) for containerization:
 [Docker Installation Guide](https://docs.docker.com/get-docker/)
